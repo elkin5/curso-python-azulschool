@@ -1,0 +1,8 @@
+# virtualenv folder
+ambiente/
+ambiente/*
+*.sqlite3
+*.py[cod]
+*~
+__pycache__/
+.DS_Store
